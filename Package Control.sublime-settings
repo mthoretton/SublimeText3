@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"HTML-CSS-JS Prettify",
+		"LiveReload",
+		"Markdown Preview",
+		"Maybs Quit",
+		"Package Control",
+		"PHP Companion",
+		"Pretty JSON",
+		"Pretty Ruby",
+		"Pretty YAML",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"TrailingSpaces",
+		"Trimmer",
+		"Unicode Character Highlighter"
+	]
+}
